@@ -1,0 +1,15 @@
+:root{
+    /* cores neutras */
+    --white: hsl(0, 0%, 100%);
+    --black: hsl(0, 0%, 0%);
+
+    /* cores primárias */
+    --green: hsla(151, 59%, 52%, 1);
+    --green-secundary: hsla(133, 100%, 38%, 1)    ;
+    --red: hsla(0, 91%, 57%, 1);
+
+    /* Gradientes */
+    
+
+
+}
