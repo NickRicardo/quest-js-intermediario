@@ -8,11 +8,15 @@
     font-family: 'Roboto', sans-serif;
 }
 
-ul {
-    list-style: none;
-}
-
 a {
     text-decoration: none;
     color: (--black);
+}
+
+p{
+    font-size: 13px;
+}
+
+table{
+    border: 1px solid #000;
 }
